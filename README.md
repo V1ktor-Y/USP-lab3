@@ -3,4 +3,8 @@ Init
 
 # MY cooler test commit ;)
 
+
+
 # asd 
+
+"Hello." - Albert Einstein
